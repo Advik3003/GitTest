@@ -1,1 +1,10 @@
 this is my first txt file 
+<<<<<<< HEAD
+Repo2 line1 
+Repo Line2
+Line2
+=======
+Repo3 line1
+Repo3 line2
+Repo3 line3
+>>>>>>> e3e20ba0191dd7d2d9938034c16c9797329d5fd1
