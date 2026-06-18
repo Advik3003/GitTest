@@ -1,7 +1,4 @@
-this is my first txt file 
-Repo2 line1
-Repo Line2
+this is my first txt file
 
 This is new line in GitTest-02
 
-Repo3 line3
